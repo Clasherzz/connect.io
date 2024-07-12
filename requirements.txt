@@ -2,3 +2,5 @@ Flask
 PyMuPDF
 transformers
 google.generativeai
+firebase_admin
+numpy
